@@ -1,0 +1,16 @@
+/Users/Costa/Documents/CG2017-2/CG_UFPel/CMakeFiles/install.dir
+/Users/Costa/Documents/CG2017-2/CG_UFPel/CMakeFiles/CG_UFPel.dir
+/Users/Costa/Documents/CG2017-2/CG_UFPel/CMakeFiles/ALL_BUILD.dir
+/Users/Costa/Documents/CG2017-2/CG_UFPel/CMakeFiles/ZERO_CHECK.dir
+/Users/Costa/Documents/CG2017-2/CG_UFPel/external/CMakeFiles/ANTTWEAKBAR_116_OGLCORE_GLFW.dir
+/Users/Costa/Documents/CG2017-2/CG_UFPel/external/CMakeFiles/install.dir
+/Users/Costa/Documents/CG2017-2/CG_UFPel/external/CMakeFiles/GLEW_190.dir
+/Users/Costa/Documents/CG2017-2/CG_UFPel/external/glfw-3.0.3/CMakeFiles/install.dir
+/Users/Costa/Documents/CG2017-2/CG_UFPel/external/glfw-3.0.3/CMakeFiles/ALL_BUILD.dir
+/Users/Costa/Documents/CG2017-2/CG_UFPel/external/glfw-3.0.3/CMakeFiles/ZERO_CHECK.dir
+/Users/Costa/Documents/CG2017-2/CG_UFPel/external/glfw-3.0.3/src/CMakeFiles/install.dir
+/Users/Costa/Documents/CG2017-2/CG_UFPel/external/glfw-3.0.3/src/CMakeFiles/GLFW_303.dir
+/Users/Costa/Documents/CG2017-2/CG_UFPel/external/assimp-3.0.1270/contrib/zlib/CMakeFiles/install.dir
+/Users/Costa/Documents/CG2017-2/CG_UFPel/external/assimp-3.0.1270/contrib/zlib/CMakeFiles/zlib.dir
+/Users/Costa/Documents/CG2017-2/CG_UFPel/external/assimp-3.0.1270/code/CMakeFiles/install.dir
+/Users/Costa/Documents/CG2017-2/CG_UFPel/external/assimp-3.0.1270/code/CMakeFiles/assimp.dir
